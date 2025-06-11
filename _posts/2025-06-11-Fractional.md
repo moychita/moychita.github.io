@@ -1,7 +1,7 @@
 ---
 title: KNAPSACK PROBLEM
 date: 2025-06-11 13.14
-categories: [DESAIN ANALISIS ALGORITMA, PROGRAMING]
+categories: [Desain dan Analisis Algoritma]
 tags: [knapsack-problem, fractional-knapsack, greedy-algorithm, algoritma]     # TAG names should always be lowercase
 ---
 # Mengisi Ransel Sampai Penuh: Petualangan Seru dengan Fractional Knapsack! 🎒💰

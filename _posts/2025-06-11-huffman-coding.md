@@ -1,7 +1,7 @@
 ---
 title: HUFFMAN CODING
 date: 2025-06-11 13.14
-categories: [Compression, Algorithms]
+categories: [Desain dan Analisis Algoritma]
 tags: [huffman, compression, greedy-algorithm, data-encoding]
 ---
 
