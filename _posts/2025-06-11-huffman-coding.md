@@ -115,12 +115,4 @@ Dari 160 ke 45? Itu penghematan **lebih dari 70%**! Wow banget kan? 😍
 ## Kesimpulan Manis 🍬  
 Huffman Coding itu solusi keren buat ngurangin ukuran data tanpa harus ngorbanin satu huruf pun. Dia pintar, hemat, dan cocok banget buat kamu yang suka kompresi tapi gak mau kehilangan apapun. Bener-bener sahabat sejati buat pengkodean data!
 
----
-
-Written with 💻 & ☕ by **Kelompok 3**:
-- Gyerend Nydle Linta Mangaluk H071241075  
-- Sarham Sam H071241059  
-- Ivan Ramadhan H071241085  
-- Hilmy Affayyad Akbar H071241013  
-- Dalvyn Suhada H071241035
 
