@@ -1,6 +1,6 @@
 ---
 title: SUBSET SUM PROBLEM
-date: 2025-06-11 13.14
+date: 2025-06-11 13.14.00 +0800
 categories: [Desain dan Analisis Algoritma]
 tags: [Greedy, Dynamic Programming, NP-Complete, Subset Sum]
 ---

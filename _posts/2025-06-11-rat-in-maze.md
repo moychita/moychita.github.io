@@ -1,6 +1,6 @@
 ---
 title: RAT IN A MAZE
-date: 2025-06-11 13.14
+date: 2025-06-11 13.14.00 +0800
 categories: [Desain dan Analisis Algoritma]
 tags: [Backtracking, Maze, Pathfinding, Recursion, DFS]
 ---
